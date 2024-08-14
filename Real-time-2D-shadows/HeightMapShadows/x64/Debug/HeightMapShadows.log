@@ -1,0 +1,3 @@
+﻿  Shader.cpp
+C:\Users\alexe\Documents\GitHub\HeightMapShadows\HeightMapShadows\Shader.cpp(20,16): warning C4305: '=': truncation from 'double' to 'float'
+  HeightMapShadows.vcxproj -> C:\Users\alexe\Documents\GitHub\HeightMapShadows\x64\Debug\HeightMapShadows.exe
